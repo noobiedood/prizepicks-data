@@ -1,0 +1,6 @@
+{
+  "date": "June 4, 2026",
+  "projections": [
+    { "id":1, "rank":1, "sport":"NBA", "player":"...", ... }
+  ]
+}
